@@ -1,2 +1,2 @@
 # GitRepo
-This is my first git repository.
+This repo is for team projects.
